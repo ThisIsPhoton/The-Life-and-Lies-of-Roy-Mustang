@@ -99,14 +99,14 @@ ol .navright {
   min-width: 600px;
   max-width: 1004px;
   cursor: pointer;
+  width: 100%;
 }
 
 .piccapt {
-  align-items: center;
+  width: 100%;
   color: #666;
   font-family: nyt-imperial, georgia, 'times new roman', times, serif;
   text-align: left;
-  width: 70%;
   font-weight: 400;
   font-size: 15px;
   line-height: 20px;
