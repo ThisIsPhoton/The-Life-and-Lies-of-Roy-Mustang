@@ -94,12 +94,15 @@ ol .navright {
 }
 
 .mainimg {
+  text-align:center;
+  align-items: center;
   min-width: 600px;
   max-width: 1004px;
   cursor: pointer;
 }
 
 .piccapt {
+  align-items: center;
   color: #666;
   font-family: nyt-imperial, georgia, 'times new roman', times, serif;
   text-align: left;
@@ -148,7 +151,7 @@ ol .navright {
 }
 
 .maintext {
-  margin: 0 200px;
+  /* margin: 0 200px; */
   text-align: left;
   font-family: nyt-imperial, georgia, "times new roman", times, serif;
   font-size: 20px;
